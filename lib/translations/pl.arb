@@ -1,0 +1,7 @@
+{
+    "@@locale" : "pl",
+
+    "appName" : "Uniwersalna skrzynka z narzędziami programisty",
+
+    "welcomeMessage" : "Witaj w aplikacji! Na panelu po lewej stronie, możesz znaleźć przydatne narzędzia :)"
+}
